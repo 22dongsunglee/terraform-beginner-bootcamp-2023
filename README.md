@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-##awmNRIX CWEAIONINF]
+##Semantic versioning :mage:   
 
 RGUA ASDasdkhksaDKJHasd asDkhajsdha 
 asdasDas
